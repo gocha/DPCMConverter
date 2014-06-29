@@ -1,6 +1,8 @@
 DPCMConverter
 =============
 
+![DPCMConverter.swf スクリーンショット](doc/assets/images/DPCMConverter.png)
+
 **[今すぐオンラインで DPCMConverter.swf をお試しください！](http://gocha.s151.xrea.com/onlinetool/DPCMConverter.swf)**
 
 [FlMML](http://flmml.codeplex.com/) 向けの Flash ベースの NES DPCM 変換ツールです。オリジナル版は [arche](http://dic.nicovideo.jp/u/934152) さんによって作られました。

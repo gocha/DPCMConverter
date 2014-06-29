@@ -1,6 +1,8 @@
 DPCMConverter
 =============
 
+![DPCMConverter.swf screenshot](doc/assets/images/DPCMConverter.png)
+
 **[Try DPCMConverter.swf Now!](http://gocha.s151.xrea.com/onlinetool/DPCMConverter.swf)**
 
 Flash-based NES DPCM converter for [FlMML](http://flmml.codeplex.com/). Initial version is created by [arche](http://dic.nicovideo.jp/u/934152).
